@@ -1,8 +1,2 @@
-from fastapi import FastAPI
-
-app = FastAPI(title="OrbitAPI")
-
-
-@app.get("/health")
-def health():
-    return {"status": "ok"}
+# Default entrypoint runs the public gateway:  uvicorn main:app
+from orbitapi.gateway_app import app  # noqa: F401
