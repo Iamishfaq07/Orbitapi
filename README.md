@@ -124,4 +124,4 @@ including the legitimate cross-tenant cases (shares, partners, support).
 
 ## License
 
-Proprietary — © Orbit Platform. Internal use only.
+Released under the [MIT License](LICENSE).
