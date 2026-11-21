@@ -122,6 +122,4 @@ including the legitimate cross-tenant cases (shares, partners, support).
 | `ORBIT_INTERNAL_TOKEN`| `orbit-internal-svc-token-2f4b`  | Gateway→core shared secret         |
 | `ORBIT_DATA_DIR`      | `./data`                         | SQLite + upload storage location   |
 
-## License
 
-Proprietary — © Orbit Platform. Internal use only.
